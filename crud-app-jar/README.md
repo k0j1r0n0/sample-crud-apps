@@ -1,1 +1,1 @@
-# sample-crud-apps
+# crud-app-jar
